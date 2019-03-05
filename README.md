@@ -11,5 +11,8 @@ Sample website with plenty of files for demos
 ## advantage
 Sample website with plenty of files for demos test content
 
+### how to contin	
+gut conitnue
+
 ### copyright
 2019 training 
