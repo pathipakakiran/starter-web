@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## advantage
 Sample website with plenty of files for demos
+
+### copyright
+2019 training 
