@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 Sample website with plenty of files for demos test content
 
 ### how to contin	
-gut conitnue
+this is conitnue adf
 
 ### copyright
 2019 training 
